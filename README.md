@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Brandon and the reaosn I have veerandon is because everyone in real life calls me Vee. I have a huge intrest in spending time with my family, we go out on walks,hikes,mall trips and more. I also have a huge intrest in computers just everything about them how they work function and help us with our everyday needs. My intrest started when I built my first rig from scratch 5 years ago and ever since then I've been spending majority of my time on computers and studying the way they work and the many different things there is to learn about computers. In this semester I'm interested in learning even more about how coding works I know a little bit but deffinately want to learn more. 
 
 <!--
 **veerandon/veerandon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
